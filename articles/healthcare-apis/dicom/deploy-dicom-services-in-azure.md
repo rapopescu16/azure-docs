@@ -1,12 +1,12 @@
 ---
 title: Deploy DICOM service using the Azure portal - Azure Health Data Services
 description: This article describes how to deploy DICOM service in the Azure portal.
-author: stevewohl
+author: mmitrik
 ms.service: healthcare-apis
 ms.subservice: fhir
 ms.topic: quickstart
-ms.date: 03/02/2022
-ms.author: aersoy
+ms.date: 05/03/2022
+ms.author: mmitrik
 ms.custom: mode-api
 ---
 
@@ -18,11 +18,11 @@ Once deployment is complete, you can use the Azure portal to navigate to the new
 
 ## Prerequisite
 
-To deploy DICOM service, you must have a workspace created in the Azure portal. For more information about creating a workspace, see **Deploy Workspace in the Azure portal**.
+To deploy DICOM service, you must have a workspace created in the Azure portal. For more information about creating a workspace, see **Deploy workspace in the Azure portal**.
 
 ## Deploying DICOM service
 
-1. On the **Resource group** page of the Azure portal, select the name of your **Azure Health Data Services Workspace**.
+1. On the **Resource group** page of the Azure portal, select the name of your **Azure Health Data Services workspace**.
 
    [ ![Screenshot of select workspace resource group.](media/select-workspace-resource-group.png) ](media/select-workspace-resource-group.png#lightbox)
 
